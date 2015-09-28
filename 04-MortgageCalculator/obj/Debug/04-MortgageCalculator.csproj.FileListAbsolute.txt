@@ -1,0 +1,6 @@
+C:\Dev\Github\04-MortgageCalculator\04-MortgageCalculator\bin\Debug\04-MortgageCalculator.exe.config
+C:\Dev\Github\04-MortgageCalculator\04-MortgageCalculator\bin\Debug\04-MortgageCalculator.exe
+C:\Dev\Github\04-MortgageCalculator\04-MortgageCalculator\bin\Debug\04-MortgageCalculator.pdb
+C:\Dev\Github\04-MortgageCalculator\04-MortgageCalculator\obj\Debug\04-MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\Dev\Github\04-MortgageCalculator\04-MortgageCalculator\obj\Debug\04-MortgageCalculator.exe
+C:\Dev\Github\04-MortgageCalculator\04-MortgageCalculator\obj\Debug\04-MortgageCalculator.pdb
